@@ -22,7 +22,7 @@ EXAMPLE OF CODE:
 		<input type="text" placeholder="Name" required>
 		<input type="email" placeholder="E-mail" required>
 		<input type="tel" placeholder="Phone number" required>
-		<button = "button1" type="Submit">Submit</>
+		<button class= "button1" type="Submit">Submit</button>
 </form>
 ```
 
