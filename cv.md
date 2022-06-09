@@ -30,3 +30,7 @@ EDUCATION:
 : Zaporizhzhia State Engineering Academy (UKRAINE, Zaporizhzhia)
 Specialist Engineering (Department of Civil Engineering)
 
+LANGUAGES:
+: English – B2 _(I had been practicing English, when I worked in the USA in Alaska, passed several courses)_
+Russian - fluent
+Ukrainian - fluent
