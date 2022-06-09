@@ -5,6 +5,10 @@
 CONTACT:
 : Discord - dsergio #4797
 
+ABOUT ME:
+: My main goal is to become a FullStack Developer.
+My qualities are perseverance, desire to learn new things, desire for maximum growth and development, always do any work on conscience, teamwork, keep everything under control, honesty, diligence and attentiveness.
+
 SKILLS:
 : JavaScript (in the learning process)
 HTML (in the learning process)
