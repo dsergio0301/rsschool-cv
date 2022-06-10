@@ -1,3 +1,4 @@
+![Foto](https://github.com/dsergio0301/rsschool-cv/blob/rsschool-cv-html/CVfoto.jpg)
 # **Sergii Dernovyi**
 ---
 >### _Frontend Developer_
